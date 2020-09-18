@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/OOP_CourseWork/CourseWork/Content/Background.jpg","D:/OOP_CourseWork/CourseWork/Content/bin/DesktopGL/Background.xnb","TextureProcessor","Texture2DContent",5649,1256725,0,1619656
+"D:/OOP_CourseWork/CourseWork/Content/Planet.png","D:/OOP_CourseWork/CourseWork/Content/bin/DesktopGL/Planet.xnb","TextureProcessor","Texture2DContent",13324,40085,0,0119608
