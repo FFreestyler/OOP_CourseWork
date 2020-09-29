@@ -21,5 +21,4 @@ D:\OOP_CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.csproj.CopyCompl
 D:\OOP_CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.dll
 D:\OOP_CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.pdb
 D:\OOP_CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.genruntimeconfig.cache
-D:\OOP_CourseWork\CourseWork\bin\Debug\netcoreapp3.1\Content\Background.xnb
-D:\OOP_CourseWork\CourseWork\bin\Debug\netcoreapp3.1\Content\Planet.xnb
+D:\OOP_CourseWork\CourseWork\bin\Debug\netcoreapp3.1\Content\Point.xnb

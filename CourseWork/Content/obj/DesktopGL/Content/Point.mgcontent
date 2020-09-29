@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>D:/OOP_CourseWork/CourseWork/Content/Background.jpg</SourceFile>
-  <SourceTime>2020-09-18T09:59:57.9346073+06:00</SourceTime>
-  <DestFile>D:/OOP_CourseWork/CourseWork/Content/bin/DesktopGL/Background.xnb</DestFile>
-  <DestTime>2020-09-18T12:29:25.0091392+06:00</DestTime>
+  <SourceFile>D:/OOP_CourseWork/CourseWork/Content/Point.png</SourceFile>
+  <SourceTime>2020-09-22T13:28:01.5807421+06:00</SourceTime>
+  <DestFile>D:/OOP_CourseWork/CourseWork/Content/bin/DesktopGL/Content/Point.xnb</DestFile>
+  <DestTime>2020-09-28T15:16:58.3151924+06:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2020-08-10T16:17:54+06:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

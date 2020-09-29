@@ -4,11 +4,9 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>D:/OOP_CourseWork/CourseWork/Content/Background.jpg</File>
-    <File>D:/OOP_CourseWork/CourseWork/Content/Planet.png</File>
+    <File>D:/OOP_CourseWork/CourseWork/Content/Point.png</File>
   </SourceFiles>
   <DestFiles>
-    <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>
 </SourceFileCollection>
